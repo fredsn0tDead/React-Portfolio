@@ -1,4 +1,4 @@
-require('dotenv' ).config({path:'../../../.env'})
+
 import React from 'react'
 import './contacts.css'
 import {MdOutlineEmail} from 'react-icons/md'
@@ -13,8 +13,9 @@ export const Contacts = () => {
 
   const sendEmail = (e) => {
     e.preventDefault();
-
-    emailjs.sendForm('service_nr5wm24', 'template_kdb14cr', form.current, process.env.USERID)
+   
+    emailjs.sendForm('service_nr5wm24', 'template_kdb14cr', form.current, process.env.REACT_APP_USERID)
+    
       .then((result) => {
           console.log(result.text);
       }, (error) => {
