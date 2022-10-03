@@ -5,7 +5,6 @@ import {Nav} from './components/nav/nav'
 import {About} from './components/about/about'
 import {Experience} from './components/experience/experience'
 import {Footer} from './components/footer/footer'
-import {Testimonials} from './components/testimonials/testimonials'
 import { Contacts } from './components/contacts/contacts.jsx'
 import { Portfolio } from './components/portfolio/portfolio.jsx'
 export const App = () => {
