@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/project1.jpg'
 import IMG2 from '../../assets/project2.jpg'
-import IMG3 from '../../assets/project3.jpg'
+import IMG3 from '../../assets/project4.jpg'
 export const Portfolio = () => {
   return (
     <section id='portfolio'>
@@ -23,7 +23,7 @@ export const Portfolio = () => {
 
             <article className='portfolio_item'>
                 <div className='portfolio_item-image'>
-                  <img src={IMG3} alt="" />
+                  <img src={IMG3} alt=""  />
                 </div>
                 <h3> Spotify Data Pipeline</h3>
                 <div className='portfolio_item-cta'>

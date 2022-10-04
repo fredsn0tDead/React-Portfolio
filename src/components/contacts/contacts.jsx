@@ -13,7 +13,7 @@ export const Contacts = () => {
 
   const sendEmail = (e) => {
     e.preventDefault();
-   
+
     emailjs.sendForm('service_nr5wm24', 'template_kdb14cr', form.current, process.env.REACT_APP_USERID)
     
       .then((result) => {

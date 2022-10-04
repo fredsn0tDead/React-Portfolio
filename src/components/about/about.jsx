@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me12.jpg'/*When importing images or files no {} needed only when exporting files with react */
+import ME from '../../assets/me12.png'/*When importing images or files no {} needed only when exporting files with react */
 import {FaAward} from 'react-icons/fa'
 import {FaFiusers} from 'react-icons/fi'
 import {FaFolderOpen} from 'react-icons/fa'
