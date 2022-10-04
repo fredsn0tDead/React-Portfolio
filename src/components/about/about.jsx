@@ -22,7 +22,7 @@ export const About = () => {
             <article className='about_card'>
               <FaAward className='about_icon'/>
               <h5>Experience</h5>
-              <small> 1 Year Working</small>
+              <small> 2+ Year Working</small>
             </article>
 
         
@@ -30,14 +30,16 @@ export const About = () => {
             <article className='about_card'>
               <FaFolderOpen className='about_icon'/>
               <h5>Projects</h5>
+              <small>5+ Projects Completed</small>
 
             </article>
 
           </div>
           <p>
-           I am a Software Engineering Student with a background in Accounting. I previously saught to become a CPA, but found a love of coding along the way.
-           I have experience in both Front-end and Back-end Developement through my projects over the course of my Software Engineerging Degree.
-           Currently I work as Technical Service Assistant at Ontario Tech University, where I am working on creating a database management system in order to run automated backups for SQLSERVER express users.
+          I am a software engineering student with a background in accounting. 
+          I previously sought to become a CPA but found a love of coding along the way. 
+          I have experience in both front-end and back-end development through my projects throughout my software engineering degree. 
+          Currently, I work as Technical Service Assistant at Ontario Tech University, where I am working on creating a database management system to run automated backups for SQLSERVER express users.
             
           </p>
           <a href='#contacts' className='btn btn-primary'>Lets Talk</a>
