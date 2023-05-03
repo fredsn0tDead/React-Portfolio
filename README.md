@@ -1,6 +1,6 @@
 # My Portofolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Here is a link to my own personal website [Create React App](https://fredericktetteh.netlify.app).
 
 ## Images
 ![alt text](https://github.com/fredsn0tDead/React-Portfolio/blob/main/websitepic.png)
