@@ -1,8 +1,9 @@
+/* eslint-disable */ 
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/project1.jpg'
-import IMG2 from '../../assets/project2.jpg'
-import IMG3 from '../../assets/project4.jpg'
+import IMG1 from '../../assets/pixel.jpg'
+import IMG2 from '../../assets/box-office.jpg'
+import IMG3 from '../../assets/spotify.jpg'
 export const Portfolio = () => {
   return (
     <section id='portfolio'>
@@ -35,9 +36,9 @@ export const Portfolio = () => {
                 <div className='portfolio_item-image'>
                   <img src={IMG2} alt="" />
                 </div>
-                <h3> Invasion From Space</h3>
+                <h3> Box-Office Express</h3>
                 <div className='portfolio_item-cta'>
-                < a href='https://github.com/fredsn0tDead/Invasion-of-Space' className='btn' target='_blank'>Github</a>
+                < a href='https://fredsn0tdead.github.io/box-office/' className='btn' target='_blank'>Github</a>
                 </div>
             </article>
         </div>

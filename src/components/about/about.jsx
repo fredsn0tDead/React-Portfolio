@@ -22,7 +22,7 @@ export const About = () => {
             <article className='about_card'>
               <FaAward className='about_icon'/>
               <h5>Experience</h5>
-              <small> 2+ Year Working</small>
+              <small> 3+ Year Working</small>
             </article>
 
         
@@ -30,7 +30,7 @@ export const About = () => {
             <article className='about_card'>
               <FaFolderOpen className='about_icon'/>
               <h5>Projects</h5>
-              <small>5+ Projects Completed</small>
+              <small>10+ Projects Completed</small>
 
             </article>
 
