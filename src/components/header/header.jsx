@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 import { CTA } from './CTA'
-import ME from '../../assets/logo4.png'/*When importing images or files no {} needed only when exporting files with react */
+import ME from '../../assets/avatar.png'/*When importing images or files no {} needed only when exporting files with react */
 import {HeaderSocials} from './headerSocials'
 const Header = () => {
   return (

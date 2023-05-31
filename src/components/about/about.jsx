@@ -36,10 +36,11 @@ export const About = () => {
 
           </div>
           <p>
-          I am a software engineering student with a background in accounting. 
-          I previously sought to become a CPA but found a love of coding along the way. 
-          I have experience in both front-end and back-end development through my projects throughout my software engineering degree. 
-          Currently, I work as Technical Service Assistant at Ontario Tech University, where I am working on creating a database management system to run automated backups for SQLSERVER express users.
+           Self-Driven software developer looking to break into the financial technology industry. Throughout my university career, 
+           I have had the opportunity to work on a diverse range of projects, further expanding my skill set and 
+           problem-solving abilities. This exposure to various projects has allowed me to develop a well-rounded perspective and adaptability, 
+           which are essential traits for success in the ever-evolving field of software development.
+
             
           </p>
           <a href='#contacts' className='btn btn-primary'>Lets Talk</a>
